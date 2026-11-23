@@ -1,0 +1,7 @@
+.venv/
+.env
+__pycache__/
+*.pyc
+chroma_db/
+Backend/chroma_db/
+.ref_README.md
